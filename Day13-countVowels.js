@@ -21,5 +21,5 @@ console.log(countVowels("ThE quIck brOwn fOx")); // Output: 5
 console.log(countVowels("Brrrp")); // Output: 0
 
 // Contraints:
-// The input string may contain letters in both uppercase & lowercase
-// The output should be a non-negative integer representing the count of vowels in the input string
+// The input string may contain letters in both uppercase & lowercase.
+// The output should be a non-negative integer representing the count of vowels in the input string.
